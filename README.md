@@ -47,25 +47,30 @@ Ensure you have a GPU-enabled setup for faster training and inference.
 ## Dataset
 
 The dataset consists of images categorized into three classes representing Military, Paramilitary, and Non-Military entities. Details regarding dataset collection and labeling should be referred to inside the notebooks.
+
+-**Dataset Link:** [**Click Here**](https://www.kaggle.com/datasets/sudipchakrabarty/trinet/data)
 ---
 
 ## 📄 Citation
 If you find our work useful for your research, please consider citing our paper.
 
-**Paper Link:** [**Click Here**](https://ieeexplore.ieee.org/document/10969233)
+-**Paper Link:** [**Click Here**](https://ieeexplore.ieee.org/document/11136231)
+
+-**Tracking Video Output Link:** [**Click Here**](https://youtube.com/shorts/8tXOiiy-Zkg?si=Esk4H2l0KG2gTvEI)
 
 ### BibTeX
 ```bibtex
-@INPROCEEDINGS{10969233,
-  author={Chatterjee, Rajdeep and Chakrabarty, Sudip and Bishwas, Pappu},
-  booktitle={2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC)}, 
-  title={ClipXpert: Automated Clip Mining from Video Data for High-Demand Content}, 
+@INPROCEEDINGS{11136231,
+  author={Chakrabarty, Sudip and Bishwas, Pappu and Chakraborty, Sorup and Sarker, Ovijit},
+  booktitle={2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)}, 
+  title={Advancing Defense and Security with Deep Learning-Based Detection and Tracking}, 
   year={2025},
   volume={},
   number={},
-  pages={13-18},
-  keywords={Sentiment analysis;Video on demand;Accuracy;Machine learning;Media;Real-time systems;Web sites;Data mining;Intelligent systems;Videos;Clip mining;video segmentation;keyword based video extraction;high-demand content},
-  doi={10.1109/ISACC65211.2025.10969233}}
+  pages={1-6},
+  keywords={YOLO;Training;Accuracy;Surveillance;Computational modeling;Weapons;Real-time systems;Personnel;Security;Meteorology;Real-time Object Detection;YOLO Architecture;Multi-object Tracking;Surveillance Systems;TriNet Dataset;Deep Learning},
+  doi={10.1109/ICICKE65317.2025.11136231}}
+
 ```
 ## Contributing
 ---
@@ -74,4 +79,5 @@ Contributions are welcome! Please fork this repository and open a pull request w
 ## License
 
 This project is open source and available under the MIT License.
+
 
